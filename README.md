@@ -14,6 +14,7 @@ The model classifies:
 This study can help in analyzing medicine effectiveness and supporting research in treatment planning.
 
 
+
 Approach & Evaluation:
 
 •	Model: Logistic Regression 
@@ -25,6 +26,7 @@ Approach & Evaluation:
 •	Cross-Validation Score: 100%
 
 •	Metrics Used: Accuracy, Confusion Matrix, Cross-Validation, Classification Report
+
 
 
 Dataset & Tools Used:
