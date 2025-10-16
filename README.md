@@ -1,13 +1,10 @@
-Mouse Virus Infection Prediction
+# Mouse Virus Infection Prediction
 
-
-
-
-Problem Statement:
+## Problem Statement:
 
 This project builds a machine learning model to predict whether a mouse infected with a virus will still be infected after being given doses of two medicines. 
 
-The model classifies:
+## The model classifies:
 
 •	0 → Not Infected
 
@@ -15,12 +12,7 @@ The model classifies:
 
 This study can help in analyzing medicine effectiveness and supporting research in treatment planning.
 
-
-
-
-
-
-Approach & Evaluation:
+## Approach & Evaluation:
 
 
 •	Model: Logistic Regression 
